@@ -49,5 +49,5 @@ g.agrega_Borde(2, 0)
 g.agrega_Borde(2, 3)
 g.agrega_Borde(3, 3)
  
-print("Se muestra un recorrido por busqueda")
+print("Se muestra un recorrido por busqueda en Profundidadss")
 g.busqueda(2)
